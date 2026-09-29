@@ -1,3 +1,9 @@
+交流与反馈
+欢迎扫码进群交流，获取最新策略动态、量化研究思路和产品更新通知。
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b23b5eac-b965-4c45-8ac2-4957a9cc4dd5" />
+<br>
+扫码进群交流,微信号: Code_Mvp
+
 
 # ETF 20 日斜率动量看板
 
