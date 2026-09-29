@@ -1,0 +1,27 @@
+INFO:     Started server process [23568]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:18000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:64641 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64655 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64657 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64660 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64685 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58781 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58784 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53707 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53712 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53776 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62233 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62234 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52731 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52732 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64009 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64015 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52318 - "GET /api/etf-status?code=513100&trade_date=2026-09-29 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56543 - "POST /api/admin/ensure-etf?code=513100&trade_date=2026-09-29 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58861 - "GET /api/dashboard?code=513100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58972 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58995 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61710 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61711 - "GET /api/dashboard HTTP/1.1" 200 OK
